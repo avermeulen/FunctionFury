@@ -12,4 +12,5 @@ Javascript functions as scary as the Night Fury initially, but as useful once ta
 * Higher Order functions
 * Anonymous functions
 * Event loop?
+      * http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/     
 
